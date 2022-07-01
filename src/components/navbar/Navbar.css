@@ -1,0 +1,66 @@
+.nav-body {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    color: white;
+    align-items: center;
+    position: fixed;
+}
+
+.bg-color{
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    color: white;
+    align-items: center;
+    position: fixed;
+    background-color: black;
+}
+
+.logo{
+    margin: 10px;
+    padding: 10px;
+    font-size: larger;
+    align-items: center;
+    display: flex;
+    font-weight: 800;
+}
+
+.authentication{
+    margin-right: 20px;
+    font-size: larger;
+}
+.right-grid{
+    display: flex;
+    width: 80%;
+    height: inherit;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.navigation{
+    display: flex;
+    margin: 10px;
+}
+
+.navigation div:nth-child(n){
+    margin: 10px;
+    font-size: large;
+}
+
+.img{
+    height: 500px;
+    width: 100vw;
+}
+
+.img-body{
+    position: absolute;
+    color: white;
+    margin-top: 35%;
+    width: 80vw;
+    text-align: start;
+    margin-left: 20px;
+}

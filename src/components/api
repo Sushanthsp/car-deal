@@ -1,0 +1,10 @@
+//POST
+https://us-central1-car-deal-9915c.cloudfunctions.net/app/api/car
+//PUT
+https://us-central1-car-deal-9915c.cloudfunctions.net/app/api/update
+//GET ALL
+https://us-central1-car-deal-9915c.cloudfunctions.net/app/api/dashboard
+//GET SPECIFIC
+https://us-central1-car-deal-9915c.cloudfunctions.net/app/api/all
+//DELETE
+https://us-central1-car-deal-9915c.cloudfunctions.net/app/api/delete
